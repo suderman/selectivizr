@@ -1,3 +1,5 @@
+**Forked just so I can properly tag the newest version for use with [bower](http://twitter.github.io/bower/)**
+
 Selectivizr
 -----------
 
